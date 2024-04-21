@@ -6,7 +6,7 @@ This Python script utilizes Selenium to perform advanced speech to text recognit
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.11.4
 - Selenium
 - Chrome WebDriver
 - Chrome Browser
